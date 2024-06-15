@@ -15,4 +15,3 @@ data1_raw
 
 data1 = pd.get_dummies(data1_raw, columns=['Orientation', 'Glazing Area Distribution'])
 data1
-#####
